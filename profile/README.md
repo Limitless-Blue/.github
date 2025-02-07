@@ -1,4 +1,4 @@
-![blue](https://github.com/user-attachments/assets/76e0db5e-d99f-4a02-b7d9-b46678e2deb6)
+![blue](https://github.com/user-attachments/assets/ace2b2e1-cd0a-4230-bb90-b5554ca7d546)
 
 > 💻 Developing something interesting...
 
