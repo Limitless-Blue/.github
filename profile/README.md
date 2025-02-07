@@ -2,7 +2,7 @@
 > 💻 Developing something interesting...
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3498DB&width=600&lines=🚀+Welcome+to+Limitless+Blue!;🌍+We're+a+team+of+passionate+developers;💡+Innovate.+Build.+Inspire." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3498DB&width=600&lines=🚀+Welcome+to+Limitless+Blue+Organization;🌍+We're+a+team+of+passionate+developers!" />
 </div>  
 
 ---
