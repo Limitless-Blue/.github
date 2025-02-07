@@ -14,13 +14,13 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/chaitanya-venkata-a5a908212/">
-        <img src="https://media1.tenor.com/m/lhycjKuqrXIAAAAd/xiangli-yao-xly.gif" width="100px" alt="Chaitanya"/><br>
+        <img src="assets/Chaitanya.png" width="100px" alt="Chaitanya"/><br>
         <b>P. V. Chaitanya</b>
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/suryakala-nadimpalli-8bb07720b/">
-        <img src="https://media1.tenor.com/m/lhycjKuqrXIAAAAd/xiangli-yao-xly.gif" width="100px" alt="Suryakala"/><br>
+        <img src="assets/suryakala.png" width="100px" alt="Suryakala"/><br>
         <b>N. Suryakala</b>
       </a>
     </td>
