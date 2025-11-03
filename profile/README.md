@@ -8,8 +8,7 @@
 
 ---
 
-## 👥 Meet the Team  
-<div align="center">
+<!-- <div align="center">
 
 <table>
   <tr>
@@ -28,6 +27,5 @@
   </tr>
 </table>  
 
-</div>
+</div> -->
 
----
